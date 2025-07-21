@@ -125,5 +125,6 @@ function division(firstOperand, secondOperand){
     return firstOperand / secondOperand;
 }
 
+// Change UI hover
 // Refactor Code + Display function
 // Extra Credit Implementations
